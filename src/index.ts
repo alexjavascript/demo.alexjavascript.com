@@ -30,58 +30,44 @@ document.body.innerHTML = `
       display: block;
       border-right: 1px solid rgba(255, 255, 255, 0.1);
       border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      font: inherit;
     }
 
-    video {
+    img {
+      display: block;
       width: 100%;
     }
   </style>
   
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 
   <a href="/work/0">
-    <video controls>
-      <source src="/public/videos/work/0/demo.mp4">
-    </video>
+    <img src="/public/images/work/0/preview.jpg">
   </a>
 `
