@@ -37,14 +37,20 @@ document.body.innerHTML = `
       display: block;
       width: 100%;
     }
+
+    span {
+      display: none;
+    }
   </style>
   
-  <a href="/work/0">
-    <img src="/public/images/work/0/preview.jpg">
+  <a href="/work/1">
+    <img src="/public/images/work/1/preview.png">
+    <span>2023.10.21</span>
   </a>
 
   <a href="/work/0">
     <img src="/public/images/work/0/preview.jpg">
+    <span>2023.10.20</span>
   </a>
 
   <a href="/work/0">
