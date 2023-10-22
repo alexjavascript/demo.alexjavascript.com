@@ -49,7 +49,7 @@ document.body.innerHTML = `
   </a>
 
   <a href="/work/2">
-    <img src="/public/images/work/2/preview-2.png">
+    <img src="/public/images/work/2/preview.png">
     <span>2023.10.22</span>
   </a>
   
