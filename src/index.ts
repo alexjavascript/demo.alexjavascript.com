@@ -43,8 +43,13 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/3">
+    <img src="/public/images/work/3/preview.png">
+    <span>2023.10.22</span>
+  </a>
+
   <a href="/work/2">
-    <img src="/public/images/work/2/preview.png">
+    <img src="/public/images/work/2/preview-2.png">
     <span>2023.10.22</span>
   </a>
   
