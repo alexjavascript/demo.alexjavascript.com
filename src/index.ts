@@ -42,6 +42,11 @@ document.body.innerHTML = `
       display: none;
     }
   </style>
+
+  <a href="/work/2">
+    <img src="/public/images/work/2/preview.png">
+    <span>2023.10.22</span>
+  </a>
   
   <a href="/work/1">
     <img src="/public/images/work/1/preview.png">
