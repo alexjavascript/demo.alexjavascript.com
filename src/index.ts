@@ -43,6 +43,11 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/4">
+    <img src="/public/images/work/4/preview.png">
+    <span>2023.10.23</span>
+  </a>
+
   <a href="/work/3">
     <img src="/public/images/work/3/preview.png">
     <span>2023.10.22</span>
