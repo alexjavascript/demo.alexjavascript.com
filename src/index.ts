@@ -49,6 +49,22 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/6">
+    <span>2024.05.02 S</span>
+  </a>
+
+  <a>
+    <span>half </span>
+  </a>
+
+  <a>
+    <span>of a year</span>
+  </a>
+
+  <a>
+    <span>later</span>
+  </a>
+
   <a href="/work/5">
     <img src="/public/images/work/5/preview.jpg">
     <span>2023.11.03 R</span>
