@@ -49,7 +49,25 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a>
+    <span>4</span>
+  </a>
+
+  <a>
+    <span>months</span>
+  </a>
+
+  <a>
+    <span>later</span>
+  </a>
+
+  <a href="/work/7">
+    <img src="/public/images/work/7/preview.png">
+    <span>2024.05.02 S</span>
+  </a>
+
   <a href="/work/6">
+    <img src="/public/images/work/6/preview.png">
     <span>2024.05.02 S</span>
   </a>
 
