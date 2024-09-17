@@ -49,6 +49,11 @@ document.body.innerHTML = `
     }
   </style>
 
+   <a href="/work/8">
+    <img src="/public/images/work/8/preview.png">
+    <span>2025.09.17 T</span>
+  </a>
+
   <a>
     <span>4</span>
   </a>

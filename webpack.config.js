@@ -2,7 +2,7 @@ const fs = require('node:fs')
 const path = require('node:path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
-const WebpackBundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin
+// const WebpackBundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin
 
 const tsRelPaths = fs.readdirSync(path.resolve('src'), {
   encoding: 'utf-8',
@@ -41,7 +41,7 @@ module.exports = {
         to: 'public'
       }]
     }),
-    new WebpackBundleAnalyzerPlugin()
+    // new WebpackBundleAnalyzerPlugin()
   ],
   module: {
     rules: [
