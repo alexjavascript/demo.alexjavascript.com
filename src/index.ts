@@ -48,10 +48,15 @@ document.body.innerHTML = `
       color: white;
     }
   </style>
+  
+  <a href="/work/9">
+    <img src="/public/images/work/9/preview.png">
+    <span>2025.09.18 W | Raycaster</span>
+  </a>
 
-   <a href="/work/8">
+  <a href="/work/8">
     <img src="/public/images/work/8/preview.png">
-    <span>2025.09.17 T</span>
+    <span>2025.09.17 T | 3D model + animation</span>
   </a>
 
   <a>
@@ -68,12 +73,12 @@ document.body.innerHTML = `
 
   <a href="/work/7">
     <img src="/public/images/work/7/preview.png">
-    <span>2024.05.02 S</span>
+    <span>2024.05.02 S | Particles</span>
   </a>
 
   <a href="/work/6">
     <img src="/public/images/work/6/preview.png">
-    <span>2024.05.02 S</span>
+    <span>2024.05.02 S | Particles</span>
   </a>
 
   <a>
