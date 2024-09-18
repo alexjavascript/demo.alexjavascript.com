@@ -49,6 +49,11 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/11">
+    <img src="/public/images/work/11/preview.png">
+    <span>2025.09.18 W | Raycaster Hover</span>
+  </a>
+
   <a href="/work/10">
     <img src="/public/images/work/10/preview.png">
     <span>2025.09.18 W | Raycaster Mouse Events</span>
