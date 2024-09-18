@@ -33,9 +33,9 @@ gltfLoader.load(
   () => console.log('error')
 )
 
-const light = new THREE.AmbientLight('white', 1)
-light.position.setY(3)
-scene.add(light)
+const directionalLight = new THREE.DirectionalLight('white', 2.1)
+const ambientLight = new THREE.AmbientLight('white', 0.9)
+scene.add(directionalLight, ambientLight)
 
 const camera = new THREE.PerspectiveCamera()
 camera.position.set(8, 8, 8)
