@@ -49,6 +49,23 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/12">
+    <img src="/public/images/work/12/preview.png">
+    <span>2025.09.22 S | Blender</span>
+  </a>
+
+  <a>
+    <span>2025.09.20 S </span>
+  </a>
+
+  <a>
+    <span>2025.09.20 F </span>
+  </a>
+
+  <a>
+    <span>2025.09.19 T </span>
+  </a>
+
   <a href="/work/11">
     <img src="/public/images/work/11/preview.png">
     <span>2025.09.18 W | Raycaster Hover</span>
