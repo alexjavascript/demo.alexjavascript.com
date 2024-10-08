@@ -49,6 +49,31 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/14">
+    <img src="/public/images/work/14/preview.png">
+    <span style="color: black">2025.10.01 T | React Three Fiber</span>
+  </a>
+
+  <a>
+    <span>Two</span>
+  </a>
+
+  <a>
+    <span>weeks</span>
+  </a>
+
+  <a>
+    <span>later</span>
+  </a>
+
+  <a href="/work/13">
+    <span>2025.09.23 S | Empty</span>
+  </a>
+
+  <a href="/work/13">
+    <span>2025.09.23 S | Empty</span>
+  </a>
+
   <a href="/work/12">
     <img src="/public/images/work/12/preview.png">
     <span>2025.09.22 S | Blender</span>
