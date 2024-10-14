@@ -49,6 +49,23 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/15">
+    <img src="/public/images/work/15/preview.png">
+    <span style="color: black">2025.10.14 M | R3F Custom Orbit Controls</span>
+  </a>
+
+  <a>
+    <span>Two</span>
+  </a>
+
+  <a>
+    <span>weeks</span>
+  </a>
+
+  <a>
+    <span>later</span>
+  </a>
+
   <a href="/work/14">
     <img src="/public/images/work/14/preview.png">
     <span style="color: black">2025.10.01 T | React Three Fiber</span>
