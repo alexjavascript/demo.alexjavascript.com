@@ -1,15 +1,25 @@
 {
   "devDependencies": {
+    "@types/dat.gui": "^0.7.11",
+    "@types/gsap": "^3.0.0",
+    "@types/react": "^18.3.8",
+    "@types/react-dom": "^18.3.0",
     "@types/three": "^0.157.0",
     "copy-webpack-plugin": "^11.0.0",
     "html-webpack-plugin": "^5.5.3",
     "ts-loader": "^9.5.0",
     "typescript": "^5.2.2",
     "webpack": "^5.89.0",
+    "webpack-bundle-analyzer": "^4.10.2",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "@react-three/fiber": "^8.17.9",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.12.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "three": "^0.157.0"
   },
   "scripts": {
