@@ -49,6 +49,21 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/19">
+    <img src="/public/images/work/19/preview.png">
+    <span>2025.10.15 T | R3F Custom Geometry</span>
+  </a>
+
+  <a href="/work/18">
+    <img src="/public/images/work/18/preview.png">
+    <span>2025.10.15 T | R3F Custom Geometry</span>
+  </a>
+
+  <a href="/work/17">
+    <img src="/public/images/work/17/preview.png">
+    <span style="color: black">2025.10.15 T | R3F Custom Geometry</span>
+  </a>
+
   <a href="/work/16">
     <img src="/public/images/work/16/preview.png">
     <span>2025.10.15 T | R3F Lights</span>
