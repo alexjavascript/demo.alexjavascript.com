@@ -49,6 +49,11 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/16">
+    <img src="/public/images/work/16/preview.png">
+    <span>2025.10.15 T | R3F Lights</span>
+  </a>
+
   <a href="/work/15">
     <img src="/public/images/work/15/preview.png">
     <span style="color: black">2025.10.14 M | R3F Custom Orbit Controls</span>
