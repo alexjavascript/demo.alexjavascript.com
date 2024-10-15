@@ -4,7 +4,7 @@
     "@types/gsap": "^3.0.0",
     "@types/react": "^18.3.8",
     "@types/react-dom": "^18.3.0",
-    "@types/three": "^0.157.0",
+    "@types/three": "^0.169.0",
     "copy-webpack-plugin": "^11.0.0",
     "html-webpack-plugin": "^5.5.3",
     "ts-loader": "^9.5.0",
@@ -15,12 +15,13 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "@react-three/fiber": "^8.17.9",
+    "@react-three/drei": "^9.114.3",
+    "@react-three/fiber": "^8.17.10",
     "dat.gui": "^0.7.9",
     "gsap": "^3.12.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "three": "^0.157.0"
+    "three": "^0.169.0"
   },
   "scripts": {
     "start": "webpack serve --mode development",
