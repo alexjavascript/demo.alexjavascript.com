@@ -49,6 +49,11 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/20">
+    <img src="/public/images/work/20/preview.png">
+    <span>2025.10.15 T | R3F Canvas Settings</span>
+  </a>
+
   <a href="/work/19">
     <img src="/public/images/work/19/preview.png">
     <span>2025.10.15 T | R3F Custom Geometry</span>
