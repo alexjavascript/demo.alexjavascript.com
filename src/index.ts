@@ -49,9 +49,18 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/22">
+    <img src="/public/images/work/22/preview.png">
+    <span style="color: black">2025.10.17 T | R3F & Drei Controls</span>
+  </a>
+
+  <a>
+    <span>2025.10.16 W</span>
+  </a>
+
   <a href="/work/21">
     <img src="/public/images/work/21/preview.png">
-    <span>2025.10.15 T | R3 Drei</span>
+    <span style="color: black">2025.10.15 T | R3F & Drei</span>
   </a>
 
   <a href="/work/20">
