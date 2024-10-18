@@ -49,6 +49,11 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/24">
+    <img src="/public/images/work/24/preview-1.png">
+    <span style="color: black">2025.10.18 F | R3F Text & Reflections</span>
+  </a>
+
   <a href="/work/23">
     <img src="/public/images/work/23/preview.png">
     <span style="color: black">2025.10.17 T | R3F HTML</span>
