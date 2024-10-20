@@ -49,6 +49,11 @@ document.body.innerHTML = `
     }
   </style>
 
+  <a href="/work/26">
+    <img src="/public/images/work/26/preview.png">
+    <span style="color: black">2025.10.20 S | Environment & Staging: Lights </span>
+  </a>
+
   <a href="/work/25">
     <img src="/public/images/work/25/preview.png">
     <span style="color: black">2025.10.19 S | Leva & Perf</span>
